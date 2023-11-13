@@ -12,3 +12,4 @@
 ![image](https://github.com/NEIKI19914/CMI-CMILib-/assets/59737752/966a3ed4-132d-401a-9e2b-d23037062d8e)
 cmi的挖刷怪笼能量
 ![image](https://github.com/NEIKI19914/CMI-CMILib-/assets/59737752/f43f5c0f-6ba5-47dd-9916-6233bb70e763)
+![image](https://github.com/NEIKI19914/CMI-CMILib-/assets/59737752/b83e7e9f-4ddf-4dcc-84af-7cffc0639208)
